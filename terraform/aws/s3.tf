@@ -137,5 +137,6 @@ resource "aws_s3_bucket" "logs" {
     git_org              = "bridgecrewio"
     git_repo             = "terragoat"
     yor_trace            = "01946fe9-aae2-4c99-a975-e9b0d3a4696c"
+                 
   })
 }
